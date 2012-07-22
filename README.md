@@ -1,16 +1,13 @@
-ROO
-===
+![](https://github.com/slatteryjim/roo/raw/master/screenshots/title1.png)
 
-Realm of Oblivion - unreleased BBS door game from 1995.
+*Realm of Oblivion* - unreleased BBS door game from 1995.
 
-Developed with QuickBasic 4.5.  The primary source code is in `ROO1.bas` and `ROO2.bas`.
+Developed with QuickBasic 4.5. The primary source code is in `ROO1.bas` and `ROO2.bas`.
+
+To play, run `ROO.exe`.
 
 Screenshots
 ===========
-
-Main Title:
-
-![](https://github.com/slatteryjim/roo/raw/master/screenshots/title1.png)
 
 Navigate the world-map with your numeric keypad:
 
